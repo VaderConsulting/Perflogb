@@ -1,6 +1,6 @@
 # Perflogb
 
-VB6 working copy of `Perflogb` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: PerfLogB. Output: `PerfLogB.exe`. `VersionCompanyName`: CSC.
+CSC VB6 PerfLogB (`PerfLogB.exe`): batch performance-log extract tool — scans KiXtart/batch `.log` files for Logon Start/Finish, Username, and SiteLoc, writes `c:\temp\PerfLogB.csv`, and charts results. Open `Perflogb.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
